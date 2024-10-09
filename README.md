@@ -1,4 +1,4 @@
-# Project 2 @ CSC 201 Fall 2024: AVL Tree (Part 2)
+# Project 2 @ CSC 201 Fall 2024: AVL Tree
 
 ## Pledged Work Policy
 
