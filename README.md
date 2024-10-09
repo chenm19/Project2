@@ -35,11 +35,12 @@ You already created Node and BST classes with a Comparable Interface for Project
 
 ## 2. **Generic AVL Tree Interface**
 
-I have enclosed two starter codes:
+I have enclosed three starter codes:
 1. `AvlTree.java`
 2. `TestAvl.java`
+3. `Proj2.java`
 
-The `AvlTree.java` file contains an overall structure of that AVL Tree class, and you are expected to complete the code where it is indicated. The `TestAvl.java` file must not be modified, and it will be used for testing your AVL Tree class. It does not check for every error, but I hope that it will be helpful for you.
+The `AvlTree.java` file contains an overall structure of that AVL Tree class, and you are expected to complete the code where it is indicated (Search for `// FINISH ME`). The `TestAvl.java` file must not be modified, and it will be used for testing your AVL Tree class. It does not check for every error, but I hope that it will be helpful for you. The `Proj2.java` file contains a starter code for you to implement the main driver of the program.
 
 ## 3. **Sorted and Randomized Datasets for BST and AVL Trees**
 
